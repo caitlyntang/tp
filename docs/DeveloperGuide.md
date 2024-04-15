@@ -1129,7 +1129,7 @@ Expected Output in the Command Output Box:
 
 <box type="tip" seamless>
 
-**Tip:** If there are no patients stored in the Application, then an empty ListView will be displayed.
+**Tip:** If there are no patients stored in the CogniCare application, then an empty ListView will be displayed.
 </box>
 
 
