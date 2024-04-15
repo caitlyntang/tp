@@ -1301,7 +1301,7 @@ Command: `reportf`
 - The patient feedback report information for all appointments will be shown in the item ListView.
 
 Expected Output:
-- All the patient feedback report information will be displayed in the ListView.
+- Patient feedback reports with information from all appointments will be displayed in the ListView.
 
 Expected Output in the Command Output Box:
 - `Generated patient feedback report from the beginning of time to the end of time`
@@ -1318,7 +1318,7 @@ Command: `reportf sd/2021-10-11`
     - `ed/`: end date
 
 Expected Output:
-- All the patient feedback report information will be displayed in the ListView.
+- Patient feedback reports with information from filtered appointments will be displayed in the ListView.
 
 Expected Output in the Command Output Box:
 - `Generated patient feedback report from 11 Oct 2021 to the end of time`
